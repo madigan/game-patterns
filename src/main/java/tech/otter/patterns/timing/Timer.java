@@ -1,3 +1,5 @@
+package tech.otter.patterns.timing;
+
 /**
  * @author John Lynn <john@otter.tech>
  * @date 5/6/17
